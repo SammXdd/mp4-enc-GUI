@@ -2,7 +2,9 @@
 
 A application for encrypting and decrypting MP4 files, ensuring the security and privacy of your media content.
 
-#####This is GUI version of [Click](https://github.com/SammXdd/mp4-enc)
+This is GUI version of [Click](https://github.com/SammXdd/mp4-enc)
+#### If y dont want to install packages you can use exe version!
+   py to exe is converted by [Click](link)
 
 ## Features
 
@@ -37,7 +39,6 @@ A application for encrypting and decrypting MP4 files, ensuring the security and
    ```
    python main.py
    ```
-   #### If y dont want to install packages you can use exe version!
-   py to exe is converted by [Click](link)
+   
 ## 📝 [Support](https://www.instagram.com/_.samarthhhhh._/)
        If you have coding issues with this tool and errors, dm me
